@@ -1,0 +1,10 @@
+com\umg\casofacturacion\Producto.class
+com\umg\casofacturacion\Cliente.class
+com\umg\casofacturacion\CasoFacturacion.class
+com\umg\casofacturacion\Marca.class
+com\umg\casofacturacion\DetalleFactura.class
+com\umg\casofacturacion\Persona.class
+com\umg\casofacturacion\Puesto.class
+com\umg\casofacturacion\ConexionDB.class
+com\umg\casofacturacion\Empleado.class
+com\umg\casofacturacion\Factura.class
